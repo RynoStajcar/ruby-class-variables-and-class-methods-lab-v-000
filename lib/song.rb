@@ -25,4 +25,5 @@ class Song
 
   def self.count
     @@song_count += 1
+  end
 end
